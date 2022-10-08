@@ -1,0 +1,124 @@
+.chessboard {
+    border: 10px rgb(0, 0, 0);
+    border-style: solid;
+    width: 640px;
+    height: 640px;
+    margin: 110px;
+    align-items: flex-end;
+    position: absolute;
+    
+    
+    
+}
+.black {
+    background-color: rgb(129, 115, 111);
+    float: left;
+    width: 80px;
+    height: 80px;
+    font-size: 60px;
+    vertical-align:middle;
+    text-align:center;
+    
+   
+    
+}
+.white {
+    background-color: rgb(250, 246, 237);
+    float: left;
+    width: 80px;
+    height: 80px;
+    font-size:60px;
+    vertical-align:middle;
+    text-align:center;
+   
+
+}
+.L {
+    height: 50px;
+    display: flex;
+    padding: 0px 50px;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* }
+.border-spec {
+    border: 10px solid black;
+    width: 700px;
+    height: 700px;
+    margin: 80px;
+    align-items: center;
+    position: absolute;
+}
+.pieces {
+    border: 20px solid black;
+    
+
+}
+.letters{
+    border: 10px;
+    width: 80px;
+    font-size: 20px;
+}
+.L {
+    display: flex;
+    margin-left: 60px;
+    
+}
+.L2{
+    display: flex;
+    margin-top: 655px;
+    margin-left: 60px;
+}
+.numbers{
+    border: 10px;
+    height: 60px;
+    font-size: 20px;
+}
+.N1{
+    border: 10px;
+    
+}
+.N2{} */

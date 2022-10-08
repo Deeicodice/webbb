@@ -1,0 +1,4 @@
+const 
+    num => {
+    let sum
+}
