@@ -1,0 +1,246 @@
+@media screen and (max-width: 800px) and (min-width: 600px ) {
+    .right1box {
+        background: white;
+    }
+}
+
+.mainMenuBar {
+  align-items: center;
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px;
+  height: 64px;
+  border-bottom: 1px solid rgb(209, 205, 205);
+
+
+}
+.leftbar {
+  display: flex;
+}
+.menuicon {
+  width: 18px;
+  margin-right: 12px;
+  margin-left: 12px;
+}
+.firstmenu {
+  display: flex;
+  width: 265px;
+  height: 28px;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 22px;
+  font-family: sans-serif;
+  font-weight: 400;
+}
+.middlebar {
+  display: flex;
+  text-align: center;
+
+  width: 307px;
+}
+.middlemenu1 {
+  justify-content: center;
+  text-align: center;
+
+  padding-bottom: 0px;
+  padding-right: 24px;
+  box-sizing: border-box;
+  width: 96px;
+}
+.middlemenu2 {
+  justify-content: center;
+  text-align: center;
+
+  padding-bottom: 0px;
+  padding-right: 24px;
+  width: 117.5px;
+  box-sizing: border-box;
+}
+.middlemenu3 {
+  justify-content: center;
+  text-align: center;
+  box-sizing: border-box;
+  padding-bottom: 0px;
+  padding-right: 24px;
+  width: 93.5px;
+}
+.rightbar {
+  margin-top: 57px 4px;
+  width: 96px;
+  height: 48px;
+  padding-left: 32px;
+  padding-right: 4px;
+}
+.doticon {
+  width: 24px;
+  padding-right: 10px;
+}
+.usericon {
+  border-radius: 50%;
+}
+.maincontent {
+ margin-left: auto;
+ margin-right: auto;
+ 
+ 
+    
+}
+@media screen and (max-width: 800px) and (min-width: 600px ) {
+    .right1box {
+        background: white;
+    }
+}
+.icodicepic {
+  
+  position: relative;
+  text-align: center;
+  margin: auto;
+
+}
+
+.intext {
+  color: rgb(253, 253, 253);
+  position: absolute;
+  bottom: 0px;
+  font-size: 36px;
+  margin: 15px;
+  font-family: sans-serif;
+  font-weight: 550;
+}
+.icodice {
+  background-color: rgb(32 33 36);
+  border-radius: 10px;
+  height: 240px;
+  width: 1000px;
+}
+.meetingbox {
+  border: 0px solid rgb(190, 188, 188);
+  width: 200px;
+  margin-top: 16px;
+  height: 106px;
+  border-radius: 10px;
+  display: block;
+  flex-direction: column;
+  box-shadow: 0 1px 2px 0 rgb(60 64 67 / 30%), 0 2px 6px 2px rgb(60 64 67 / 15%);
+  overflow: hidden;
+ 
+}
+.m1 {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+.meeticon {
+  width: 24px;
+  height: 24px;
+  margin: 14px;
+}
+.meet {
+  font-weight: 500;
+  font-family: sans-serif;
+  color: rgb(32 33 36);
+  font-size: 0.875rem;
+}
+.dots {
+  width: 24px;
+  height: 24px;
+  position: relative;
+  text-align: center;
+  display: block;
+  margin-left: 65px;
+}
+.joinbutton {
+  border: 1px solid rgb(32 33 36);
+  font-family: sans-serif;
+  font-weight: 600;
+  font-size: 0.875rem;
+  height: 36px;
+  border-radius: 4px;
+  width: 162px;
+  text-align: center;
+  margin-left: 16px;
+  background-color: rgb(32 33 36);
+  color: white;
+  padding: 0 8px 0 8px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.right1box {
+  border: 0px solid rgb(190, 188, 188);
+  box-shadow: 0 1px 2px 0 rgb(60 64 67 / 30%), 0 2px 6px 2px rgb(60 64 67 / 15%);
+  width: 770px;
+  margin-left: 680px;
+  position: absolute;
+  top: 345px;
+  border-radius: 10px;
+  height: 72px;
+  position: absolute;
+}
+
+.blueuser {
+  border-radius: 50%;
+  margin-top: 14px;
+  margin-left: 14px;
+}
+.announce {
+  font-family: sans-serif;
+  position: absolute;
+  font-size: 13px;
+  margin-top: 30px;
+  margin-left: auto;
+  color: rgb(173, 173, 182);
+}
+.upcomingbox {
+  border: 0px solid rgb(190, 188, 188);
+  box-shadow: 0 1px 2px 0 rgb(60 64 67 / 30%), 0 2px 6px 2px rgb(60 64 67 / 15%);
+  border-radius: 10px;
+  font-family: sans-serif;
+  width: 200px;
+  height: 144px;
+  margin-left: auto;
+  margin-top: 24px;
+  overflow: hidden;
+ 
+  
+}
+
+
+.upcoming {
+  font-weight: 500;
+  color: rgb(32 33 36);
+  font-size: 0.875rem;
+  display: flex;
+  margin-top: 14px;
+  margin-left: 14px;
+}
+.duedate {
+  font-size: 13px;
+  font-weight: 300;
+  color: rgb(173, 173, 182);
+  display: flex;
+  margin-top: 22px;
+  margin-left: 14px;
+}
+.assignment {
+  font-size: 13px;
+  display: block;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  font-weight: 400;
+  color: rgb(81, 81, 83);
+  margin-top: 10px;
+  margin-left: 14px;
+  text-decoration: underline;
+}
+.viewall {
+  font-weight: 500;
+  color: rgb(32 33 36);
+  font-size: 0.875rem;
+  display: flex;
+  margin-top: 14px;
+  margin-left: 125px;
+}
